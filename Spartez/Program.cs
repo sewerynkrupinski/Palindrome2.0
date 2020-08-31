@@ -10,11 +10,6 @@ namespace Spartez
     {
         static void Main(string[] args)
         {
-            Palindrome p = new Palindrome();
-            p.GetPalindromeOrder("kajax");
-            Console.ReadLine();
         }
-
-        
     }
 }
